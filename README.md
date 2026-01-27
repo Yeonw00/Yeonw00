@@ -19,4 +19,4 @@
     
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeonw00_&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeonw00&show_icons=true&theme=radical)
