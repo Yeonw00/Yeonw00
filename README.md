@@ -2,7 +2,7 @@
 
 ### About Me
 - 💻 BackEnd Engineer
-- 📝 Writing tech [blogs](https://velog.io/@mrk8056/posts) at Velog to archive my growth.
+- 📝 Writing tech blogs at [Velog](https://velog.io/@mrk8056/posts)  to archive my growth.
 ### 🛠 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
